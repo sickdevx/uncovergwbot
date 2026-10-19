@@ -1,0 +1,78 @@
+{
+  "73807": {
+    "id": "73807",
+    "title": "niggaaaaaa @irjrjrfh",
+    "hosted_by": "@thefbi",
+    "end_time": "2026-10-19T13:26:47.917332+00:00",
+    "channels": [],
+    "photo": null,
+    "status": "ended",
+    "participants": {},
+    "messages": [
+      [
+        5226135306,
+        31
+      ]
+    ],
+    "winner": null,
+    "final_entries": 0
+  },
+  "68607": {
+    "id": "68607",
+    "title": "500 ltc",
+    "hosted_by": "@thefbi",
+    "end_time": "2026-10-19T13:42:52.593138+00:00",
+    "channels": [
+      "@irjrjrfh"
+    ],
+    "photo": null,
+    "status": "ended",
+    "participants": {},
+    "messages": [
+      [
+        "@irjrjrfh",
+        28
+      ]
+    ],
+    "winner": {
+      "id": 5226135306,
+      "name": "M0ssad",
+      "username": "thefbi"
+    },
+    "preset_winner": {
+      "id": 5226135306,
+      "name": "M0ssad",
+      "username": "thefbi"
+    },
+    "final_entries": 3
+  },
+  "15636": {
+    "id": "15636",
+    "title": "500 ltc",
+    "hosted_by": "@thefbi",
+    "end_time": "2026-10-19T13:55:20.497613+00:00",
+    "channels": [
+      "@irjrjrfh"
+    ],
+    "photo": null,
+    "status": "ended",
+    "participants": {},
+    "messages": [
+      [
+        "@irjrjrfh",
+        30
+      ]
+    ],
+    "winner": {
+      "id": 5226135306,
+      "name": "M0ssad",
+      "username": "thefbi"
+    },
+    "preset_winner": {
+      "id": 5226135306,
+      "name": "M0ssad",
+      "username": "thefbi"
+    },
+    "final_entries": 3
+  }
+}
